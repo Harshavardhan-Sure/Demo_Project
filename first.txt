@@ -1,0 +1,7 @@
+I was also stuck over this. The solution is : a) Make any txt file first let's say " Readme.txt "
+
+b) Copy this text file to you local git repo(folder) eg- C:/store
+
+c) Go to windows command prompt if you are on windows (type " cmd " on search bar when you click on window button )
+
+d) go to your local git repo. type ** echo hello > Readme.txt** ---> C:\admin\store>echo hello > Readme.txt
